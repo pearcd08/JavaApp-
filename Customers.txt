@@ -1,0 +1,4 @@
+1,David,Pearce,pearcd08@myunitec.ac.nz,password
+2,Test,Name,test@test.com,password
+3,New,Customer,newcustomer@test.com,password
+4,new,user,test@test.com,password

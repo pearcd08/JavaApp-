@@ -1,0 +1,38 @@
+UX:
+have a consistent basic UI
+find a font, colour window size that fits all forms.
+maybe incorporate into a style class like HTML css. 
+
+Login:
+
+email validation
+password validation
+
+
+Main Menu:
+
+replalce currentUser int with string of Full Name
+display next appointment string of day and time
+
+Add Pet:
+
+check if pet already exists
+
+Add Appoinment:
+remove times that have already been taken+
+Loop through appointment list to find the selected day+
+and any times taken on that day will be removed from that list.
+
+Reschedule Appointment,
+List of appointments user currently has+
+display the details in text boxes;
+can only update day and date. 
+
+Cancel Appointment
+Maybe build into reschedule appointment class and just have a cancel appointment button.
+Otherwise copy reschedule appointment but display everything in read only text boxes
+
+If time:
+implement security on the text files.
+have an admin option for a bare bones data view to see all appointments, doctors, pets and customers. 
+
